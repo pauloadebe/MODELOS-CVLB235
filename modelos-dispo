@@ -1,16 +1,25 @@
-[
-  {
-    "id": "CV001",
-    "nome": "Template Moderno",
-    "descricao": "Um design moderno e profissional para o seu currículo.",
-    "imagem": "https://seurepositorio.github.io/img/cv1.jpg",
-    "preco": "500MT"
-  },
-  {
-    "id": "CV002",
-    "nome": "Template Simples",
-    "descricao": "Design simples e elegante para destacar suas habilidades.",
-    "imagem": "https://seurepositorio.github.io/img/cv2.jpg",
-    "preco": "400MT"
-  }
-]
+{
+  "templates": [
+    {
+      "id": "1",
+      "code": "CV001",
+      "price": "500",
+      "description": "Template moderno e elegante para profissionais criativos.",
+      "image": "https://example.com/images/cv001.jpg"
+    },
+    {
+      "id": "2",
+      "code": "CV002",
+      "price": "600",
+      "description": "Design clean e minimalista para todas as áreas profissionais.",
+      "image": "https://example.com/images/cv002.jpg"
+    },
+    {
+      "id": "3",
+      "code": "CV003",
+      "price": "550",
+      "description": "Um template sofisticado para destacar suas habilidades.",
+      "image": "https://example.com/images/cv003.jpg"
+    }
+  ]
+}
