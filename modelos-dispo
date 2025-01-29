@@ -1,24 +1,16 @@
-{
-    "templates": [
-        {
-            "code": "T001",
-            "title": "Template Profissional",
-            "description": "Modelo de currículo elegante e moderno.",
-            "price": "MZN 500",
-            "images": [
-                "https://seusite.com/imagens/template1-1.jpg",
-                "https://seusite.com/imagens/template1-2.jpg"
-            ]
-        },
-        {
-            "code": "T002",
-            "title": "Template Simples",
-            "description": "Currículo clean para destacar suas habilidades.",
-            "price": "MZN 400",
-            "images": [
-                "https://seusite.com/imagens/template2-1.jpg",
-                "https://seusite.com/imagens/template2-2.jpg"
-            ]
-        }
-    ]
-}
+[
+  {
+    "id": "CV001",
+    "nome": "Template Moderno",
+    "descricao": "Um design moderno e profissional para o seu currículo.",
+    "imagem": "https://seurepositorio.github.io/img/cv1.jpg",
+    "preco": "500MT"
+  },
+  {
+    "id": "CV002",
+    "nome": "Template Simples",
+    "descricao": "Design simples e elegante para destacar suas habilidades.",
+    "imagem": "https://seurepositorio.github.io/img/cv2.jpg",
+    "preco": "400MT"
+  }
+]
