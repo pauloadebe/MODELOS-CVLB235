@@ -6,7 +6,6 @@
       "price": "500",
       "description": "Template moderno e elegante para profissionais criativos.",
       "image": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M.png"
-      "image1": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M887-cover.png"
     },
     {
       "id": "2",
@@ -14,7 +13,6 @@
       "price": "600",
       "description": "Design clean e minimalista para todas as áreas profissionais.",
       "image": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M772.png"
-      "image1": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M887-cover.png"
     },
     {
       "id": "3",
@@ -22,7 +20,6 @@
       "price": "550",
       "description": "Um template sofisticado para destacar suas habilidades.",
       "image": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M887.png"
-      "image1": "https://raw.githubusercontent.com/pauloadebe/MODELOS-CVLB235/refs/heads/main/modelos/Cv-M887-cover.png"
     }
   ]
 }
